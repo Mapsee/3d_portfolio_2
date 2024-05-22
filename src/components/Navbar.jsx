@@ -13,7 +13,7 @@ const Navbar = () => {
     >
       <div className="w-full flex justify-between items-center max-w-7xl mx-auto">
         <Link
-          className="flex items-cetner gap-2"
+          className="flex items-center gap-2"
           to="/"
           onClick={() => {
             setActive("");
